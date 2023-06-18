@@ -1,0 +1,12 @@
+ 
+sitive_or_negative.c:26:28: error: expected ‘)’ before ‘;’ token
+   26 |    printf("%d is zero\n", n;
+      |                            ^
+      |                            )
+0-positive_or_negative.c:26:29: error: expected ‘;’ before ‘}’ token
+   26 |    printf("%d is zero\n", n;
+      |                             ^
+      |                             ;
+   27 |      }
+      |      ~                       
+
