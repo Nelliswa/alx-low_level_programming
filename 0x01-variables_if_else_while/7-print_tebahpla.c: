@@ -1,0 +1,5 @@
+ihpla.c:11:26: error: expected ‘;’ before ‘ch’
+   11 |  for (ch = 'z'; ch >= 'a' ch--)
+      |                          ^~~
+      |                          ;
+`
