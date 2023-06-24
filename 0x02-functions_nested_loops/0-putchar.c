@@ -1,12 +1,10 @@
-#include "main.h"
 /**
-*main - print putchr
-*Return: always 0
+*main - print putchar
+*Return: Always 0
 */
 
 int main(void)
 {
-
 	_putchar('_');
 	_putchar('p');
 	_putchar('u');
@@ -19,4 +17,3 @@ int main(void)
 
 	return (0);
 
-}
